@@ -25,7 +25,7 @@ The dataset consists of 59 features, covering:
 - Outcome variables:
   - efs: Event-Free Survival (binary).
   - efs_time: Time to Event-Free Survival (censored survival time).
-📌 Data Source: Synthetic dataset generated via SurvivalGAN, preserving real-world distributions.
+- 📌 Data Source: Synthetic dataset generated via SurvivalGAN, preserving real-world distributions.
 
 
 ## 🛠 Tech Stack & Libraries
